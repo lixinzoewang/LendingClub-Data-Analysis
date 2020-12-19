@@ -15,3 +15,4 @@ In this project, our two main questions are
 The models we use in this project include Logistic Elastic Net, Boosting with Accuracy, Boosting with Kappa. 
 
 A Rshiny app is built to show the sensitivity and specificity at different threshold for each model.
+https://shenghuiting.shinyapps.io/Lending-Club/
